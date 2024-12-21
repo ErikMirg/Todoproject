@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.ToDoLite" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/yellow</item>
+        <item name="colorPrimaryDark">@color/yellow</item>
+        <item name="colorSecondary">@color/yellow</item>
+        <item name="colorSecondaryVariant">@color/yellow</item>
+        <item name="colorAccent">@color/yellow</item>
+        <item name="colorButtonNormal">@color/yellow</item>
+    </style>
+
+    <style name="Theme.ToDoLite" parent="Base.Theme.ToDoLite" />
+</resources>
